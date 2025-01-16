@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on Reactjs Projects
-- 📫 How to reach me on my social media accounts.
 
 <!---
 BabsTech-sbm/BabsTech-sbm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
